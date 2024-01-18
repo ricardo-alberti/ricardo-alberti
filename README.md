@@ -1,16 +1,27 @@
-### Hi there 👋
+---
+#### 🦾 Software
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,nodejs,arduino,bootstrap,cs,dotnet,react,php)](https://skillicons.dev)
 
-<!--
-**ricardo-alberti/ricardo-alberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+#### 🧬 Tools & Programs
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,figma,vim,git,vscode,regex,md)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+---
+#### 🗄 Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### 🔮 OS
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+
+  <br/>
+  <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
+  <br/>
+
+  
+  ### 🏆 GitHub Profile Trophy:
+---
+ <div>
+  <img width=810 src="https://github-profile-trophy.vercel.app/?username=ricardo-alberti&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
+</div>
