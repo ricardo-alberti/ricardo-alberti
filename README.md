@@ -1,9 +1,9 @@
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,nodejs,arduino,bootstrap,cs,dotnet,react,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,nodejs,arduino,bootstrap,cs,dotnet,react,php)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,figma,vim,git,vscode,regex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,vim,git,vscode,regex)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
