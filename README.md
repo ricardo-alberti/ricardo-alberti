@@ -19,6 +19,4 @@
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=ricardo-alberti&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
 
-<p align:"center">
 ![Frame 66](https://web.archive.org/web/20091027080430im_/http://www.geocities.com/lady_daisydew/Creatures/a-rabbit12.gif)
-</p>
