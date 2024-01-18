@@ -13,12 +13,6 @@
 ---
 #### 🔮 OS
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
-
-  <br/>
-  <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
-  <br/>
-
   
   ### 🏆 GitHub Profile Trophy:
 ---
