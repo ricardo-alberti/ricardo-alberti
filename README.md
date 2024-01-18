@@ -1,4 +1,3 @@
----
 #### 🦾 Software
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,nodejs,arduino,bootstrap,cs,dotnet,react,php)](https://skillicons.dev)
 
