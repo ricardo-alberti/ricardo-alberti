@@ -20,4 +20,4 @@
 </div>
 
   
-![Frame 66]([https://web.archive.org/web/20091027080430im_/http://www.geocities.com/lady_daisydew/Creatures/a-rabbit12.gif))
+![Frame 66](https://web.archive.org/web/20091027080430im_/http://www.geocities.com/lady_daisydew/Creatures/a-rabbit12.gif)
