@@ -3,7 +3,7 @@
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,vim,git,vscode,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,vim,git,regex)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
