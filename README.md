@@ -7,7 +7,7 @@
 
 ---
 #### 🗄 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql)](https://skillicons.dev)
 
 ---
 #### 🔮 OS
