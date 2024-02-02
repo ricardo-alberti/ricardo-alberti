@@ -18,5 +18,3 @@
  <div>
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=ricardo-alberti&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
-
-![Frame 66](https://web.archive.org/web/20091025235241/http://geocities.com/TimesSquare/Fortress/6045/npbem/fire.gif)
