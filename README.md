@@ -1,5 +1,5 @@
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,arduino,bootstrap,cs,dotnet,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,arduino,cs,dotnet,react,python)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
